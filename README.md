@@ -1,2 +1,1 @@
-# leaflet-challenge
-HTML and JavaScript
+# leaflet-using-html-and-javascript
